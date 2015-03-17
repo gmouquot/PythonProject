@@ -1,14 +1,25 @@
 __author__ = "Sehrum"
 __date__ = "$17 mars 2015 14:45:04$"
 
-def constructionArbrePrefixe(seq,k):
-    print (coucou);
-    print (bastien);
+print ("coucou");
+
+"""def constructionArbrePrefixe(seq,k):
     
+    for i in seq:
+        if i<=k :
+            seqList[i]=seq[0:i];
+        else:
+            seqList[i]=seq[i-k:i];
+
+def affichageListe(seqList):
+    for i in seqList:
+        print(seqList[i],"\n");
+            
+seqList=constructionArbrePrefixe("CGATCGATGCTAGTCGATCGTA",3);
+affichageListe(seqList);"""
 
 
-
-def inserer(Arb,mot):
+"""def inserer(Arb,mot):
     print (mot[len(mot)-1]);
     if mot[len(mot)-1] != '$':
         mot = mot+'$';
@@ -34,4 +45,4 @@ def affichageArbreSuffixe (Arb):
     if (Arb!={}):
         affichage(Arb['FG']);
         affichage(Arb['FD']);
-        print (Arb['val']);
+        print (Arb['val']);"""
