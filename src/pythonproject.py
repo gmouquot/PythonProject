@@ -3,6 +3,7 @@ __date__ = "$17 mars 2015 14:45:04$"
 
 def constructionArbrePrefixe(seq,k):
     print (coucou);
+    print (bastien);
     
 
 
